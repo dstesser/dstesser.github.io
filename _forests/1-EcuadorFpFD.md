@@ -8,7 +8,6 @@ excerpt: 'Surface Water Microwave Product Series (SWAMPS) <br><br><img src="http
 
 ## Trying title
 
-### does this work
 
 The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface water fraction product derived from combined passive-active microwave datasets (SSM/I, SSMIS, ERS, QuikSCAT, ASCAT). Its development was supported by the [NASA MEaSURES Program](https://www.google.com/url?q=https%3A%2F%2Fearthdata.nasa.gov%2Fcommunity%2Fcommunity-data-system-programs%2Fmeasures-projects%2Fan-inundated-wetlands-esdr&sa=D)
 
