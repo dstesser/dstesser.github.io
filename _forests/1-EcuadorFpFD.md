@@ -4,7 +4,7 @@ collection: forests
 permalink: /forests/1-EcuadorFpFD
 excerpt: 'Surface Water Microwave Product Series (SWAMPS) <br><br><img src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-map-example.png" width=250>'
 ---
-# Trying other title - hello hello
+# Trying other title hello hello
 
 ## Trying title
 
