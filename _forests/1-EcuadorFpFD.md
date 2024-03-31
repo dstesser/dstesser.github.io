@@ -3,7 +3,7 @@ title: "Tropical Deforestation Monitoring"
 collection: forests
 permalink: /forests/1-EcuadorFpFD
 excerpt: 'Surface Water Microwave Product Series (SWAMPS) <br><br><img src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-map-example.png" width=250>'
-
+---
 # Trying other title - hello hello
 
 ## Trying title
@@ -20,4 +20,4 @@ SWAMPS was derived using a land cover-supported, atmospherically-corrected dynam
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-workflow.png" width=800>
 
 This data set has been used in projects looking at large scale inundation patterns and methane modeling in wetlands across the globe.
----
+
