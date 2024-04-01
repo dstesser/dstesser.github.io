@@ -15,6 +15,9 @@ M.S. in Biology, New York University, 2011<br>
 B.S. in History and International Relations, Brandeis University, 2009
 
 
+<img style="float: center; padding: 10px 10px 10px 10px;" src="https://github.com/dstesser/dstesser.github.io/blob/master/images/dt_eyelash_viper.png" width=800>
+
+
 Work Experience
 ======
 __2020 - Current: Research Scientist__<br>

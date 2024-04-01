@@ -27,7 +27,7 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
 
 SWAMPS was derived using a land cover-supported, atmospherically-corrected dynamic mixture model applied to 20+ years of combined, daily, passive/active microwave remote sensing data. Learn more
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-workflow.png" width=800>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="https://github.com/dstesser/dstesser.github.io/blob/master/images/dt_eyelash_viper.png" width=800>
 
 This data set has been used in projects looking at large scale inundation patterns and methane modeling in wetlands across the globe.
 ---
