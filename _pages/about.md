@@ -20,6 +20,6 @@ I am a research scientist at the City College of New York developing environment
 <!--You can learn more about some of my current and former open-source research projects [here](https://katjensen.github.io/research)-->
 
 <figure>
-    <img src="images/siteoverview2.gif" width=500/>
-    <figcaption>Radar imaging satellites "see" through the clouds to reveal tropical landcover</figcaption>
+    <img src="images/siteoverview2.gif" width=300/>
+    <figcaption>Radar imaging satellites can "see" through the clouds. Here I use Japanese PALSAR-2 satellite data to reveal different tropical landcover types in Ecuador's Choco Biodiversity Hotspot</figcaption>
 </figure>
