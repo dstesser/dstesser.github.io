@@ -8,9 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-Agriculture
-======
-Ph.D in Earth and Environmental Sciences, CUNY Graduate Center, 2023<br>
+## Circular Economy
+In this project in Hungary we...<br>
 M.S. in Biology, New York University, 2011<br>
 B.S. in History and International Relations, Brandeis University, 2009
 
