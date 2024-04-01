@@ -17,8 +17,7 @@ I am a research scientist at the City College of New York developing environment
 * Flood risk assessments and supply deployment recommendations at the **Red Cross/Red Crescent Climate Centre**
 * Assimilating regional weather forecasts and crop yield models at the **International Research Institute for Climate and Society (IRI)** at Columbia University
 
-<! --You can learn more about some of my current and former open-source research projects [here](https://katjensen.github.io/research)
-<img style="float: left; padding: 10px 10px 10px 10px;" src="images/siteoverview2.gif" width=500 class="center"> -->
+<!--You can learn more about some of my current and former open-source research projects [here](https://katjensen.github.io/research)-->
 
 <figure>
     <img src="images/siteoverview2.gif" width=500/>
