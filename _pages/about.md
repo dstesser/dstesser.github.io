@@ -20,4 +20,4 @@ I am a research scientist at the City College of New York developing environment
 You can learn more about some of my current and former open-source research projects [here](https://katjensen.github.io/research)
 
 
-<img style="float: left; padding: 10px 10px 10px 10px;" src="images/siteoverview.gif" width=700 class="center">
+<img style="float: left; padding: 10px 10px 10px 10px;" src="images/siteoverview.gif" width=500 class="center">
