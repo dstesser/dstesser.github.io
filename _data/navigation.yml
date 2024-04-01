@@ -3,8 +3,11 @@ main:
   - title: "Forests"
     url: /forests/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Agriculture"
+    url: /agriculture/  
+  
+  #- title: "Publications"
+  #  url: /publications/
 
   - title: "Talks"
     url: /talks/    
