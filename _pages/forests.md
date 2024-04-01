@@ -7,13 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 
-{% for post in site.forests %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
- # Trying other title does this work
+# Trying other title does this work
 
 ## Trying title or maybe this? ok now do another test
 
