@@ -45,6 +45,12 @@ Main outcomes of this work:
 
 Measure ... check TS slide deck and bootcamp for language..
 
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/vegetation%20structure%20lidar.jpg" style="width: 75%;">
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
+    </figure>
+</div>
 
 This data set has been used in projects looking at large scale inundation patterns and methane modeling in wetlands across the globe.
 
