@@ -22,7 +22,7 @@ I am a research scientist at the City College of New York developing environment
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="images/siteoverview2.gif" style="width: 75%;">
-        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites can "see" through clouds that frequently obscure tropical forests. Here I process JAXA's PALSAR-2 satellite data to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
     </figure>
 </div>
 
