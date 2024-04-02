@@ -21,11 +21,16 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
 
 
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 50%;" alt="deforestation">
-    <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 50%;" alt="oil palm">
-    <figcaption style="font-size: 15px; max-width: 50%; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within ind terr in Ecuador.</figcaption>
-    <figcaption style="font-size: 15px; max-width: 50%; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
+    <figure style="width: 50%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
+        <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Logging activities within indigenous territory in Ecuador.</figcaption>
+    </figure>
+    <figure style="width: 50%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 100%;" alt="oil palm">
+        <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Oil palm expansion in Ecuador.</figcaption>
+    </figure>
 </div>
+
 
 
 Main outcomes of this work:
