@@ -20,16 +20,19 @@ Logging activities are a major ... human impact.. tracking road expansion across
 The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface water fraction product derived from combined passive-active microwave datasets (SSM/I, SSMIS, ERS, QuikSCAT, ASCAT). Its development was supported by the [Home Depot Illegal Logging](https://www.youtube.com/watch?v=giQQ3S_1HDk)
 
 
-<div style="display: flex;">
-    <figure style="width: 50%;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
-        <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Logging activities within indigenous territory in Ecuador.</figcaption>
-    </figure>
-    <figure style="width: 50%;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 100%;" alt="oil palm">
-        <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Oil palm expansion in Ecuador.</figcaption>
-    </figure>
+<div style="text-align: center;">
+    <div style="display: flex;">
+        <figure style="width: 40%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Logging activities within indigenous territory in Ecuador.</figcaption>
+        </figure>
+        <figure style="width: 40%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 100%;" alt="oil palm">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto;">Oil palm expansion in Ecuador.</figcaption>
+        </figure>
+    </div>
 </div>
+
 
 
 
