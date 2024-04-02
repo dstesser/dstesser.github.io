@@ -28,7 +28,7 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 100%;" alt="oil palm">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd2.png" style="width: 100%;" alt="oil palm">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
         </figure>
     </div>
