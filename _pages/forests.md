@@ -7,9 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- 
+{% for post in site.forests %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
+
 ### Tropical Deforestation Monitoring
 
-The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface water fraction product derived from combined passive-active microwave datasets (SSM/I, SSMIS, ERS, QuikSCAT, ASCAT). Its development was supported by the [NASA MEaSURES Program](https://www.google.com/url?q=https%3A%2F%2Fearthdata.nasa.gov%2Fcommunity%2Fcommunity-data-system-programs%2Fmeasures-projects%2Fan-inundated-wetlands-esdr&sa=D)
+Logging activities are a major ... human impact.. tracking road expansion across indigenous territories indicative of 
+
+The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface water fraction product derived from combined passive-active microwave datasets (SSM/I, SSMIS, ERS, QuikSCAT, ASCAT). Its development was supported by the [Home Depot Illegal Logging](https://www.youtube.com/watch?v=giQQ3S_1HDk)
+
+
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="images/sabalito.gif" style="width: 75%;">
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
+    </figure>
+</div>
+
+
 
 * Spatial resolution: 25 km
 * Date range: Jan 1 1992 - Dec 31 2020
@@ -17,7 +35,8 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
 
 SWAMPS was derived using a land cover-supported, atmospherically-corrected dynamic mixture model applied to 20+ years of combined, daily, passive/active microwave remote sensing data. Learn more
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/dt_eyelash_viper.png" width=800>
 
 This data set has been used in projects looking at large scale inundation patterns and methane modeling in wetlands across the globe.
----
+
+
+
