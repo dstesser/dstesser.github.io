@@ -22,8 +22,13 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 75%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 75%;"> 
         <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within ind terr in Ecuador.</figcaption>
+    </figure>
+    
+    <figure style="display:inline-block;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd.png" style="width: 75%;"> 
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Caption for the second image.</figcaption>
     </figure>
 </div>
 
