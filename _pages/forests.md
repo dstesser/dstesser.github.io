@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
  -->
 
-### Tropical Deforestation Monitoring
+## Tropical Deforestation Monitoring
 
 Logging activities are a major ... human impact.. tracking road expansion across indigenous territories indicative of 
 
@@ -41,7 +41,7 @@ Main outcomes of this work:
 * Date range: Jan 1 1992 - Dec 31 2020
 * Download [here!](https://asf.alaska.edu/data-sets/derived-data-sets/wetlands-measures/wetlands-measures-product-downloads/)
 
-### Vegetation Structural Modeling
+## Vegetation Structural Modeling
 
 Measure ... check TS slide deck and bootcamp for language..
 
