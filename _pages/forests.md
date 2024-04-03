@@ -47,8 +47,8 @@ Measure ... check TS slide deck and bootcamp for language..
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 75%;">
-        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
     </figure>
 </div>
 
