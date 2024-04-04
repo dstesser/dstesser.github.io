@@ -34,7 +34,7 @@ City College of New York<br>
         </figure>
         <div style="width: 20%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
-            <img src="images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
+            <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
         <figure style="width: 100%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
