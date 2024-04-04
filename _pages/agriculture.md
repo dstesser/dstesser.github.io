@@ -30,17 +30,30 @@ City College of New York<br>
 <div style="text-align: center;">
     <div style="display: flex;">
         <figure style="width: 40%;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="deforestation">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
-            <img src="https://github.com/dstesser/dstesser.github.io/blob/master/images/gallo_gif_reduced.gif" style="width: 100%;" alt="oil palm">
+            <img src="https://github.com/dstesser/dstesser.github.io/blob/master/images/gallo_gif_reduced.gif" style="width: 100%;" alt="gallovineyard">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
         </figure>
     </div>
 </div>
 
+<div style="text-align: center;">
+    <div style="display: flex;">
+        <figure style="width: 40%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/ufcrops2.jpg" style="width: 100%;" alt="ufcrops">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
+        </figure>
+        <div style="width: 10%;"></div> <!-- Add a spacer -->
+        <figure style="width: 40%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangerusselranch.png" style="width: 100%;" alt="slantrangerussellranch">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
+        </figure>
+    </div>
+</div>
 
 
 Skills
