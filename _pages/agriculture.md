@@ -39,19 +39,13 @@ City College of New York<br>
     </div>
 </div>
 
-<div style="text-align: center;">
-    <div style="display: flex;">
-        <figure style="width: 40%;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/ufcrops3.png" style="width: 100%;" alt="ufcrops">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
-        </figure>
-        <div style="width: 10%;"></div> <!-- Add a spacer -->
-        <figure style="width: 40%;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangerusselranch.png" style="width: 100%;" alt="slantrangerussellranch">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
-        </figure>
-    </div>
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress.</figcaption>
+    </figure>
 </div>
+
 
 
 Skills
