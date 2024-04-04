@@ -31,12 +31,10 @@ City College of New York<br>
     <div style="display: flex;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
             <img src="images/gallo_gif_reduced.gif" style="width: 100%;" alt="gallovineyard">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
         </figure>
     </div>
 </div>
