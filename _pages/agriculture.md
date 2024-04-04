@@ -34,7 +34,7 @@ City College of New York<br>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
-            <img src="images/gallo_gif_reduced.gif" style="width: 100%;" alt="gallovineyard">
+            <img src="https://www.dropbox.com/scl/fi/nq44msdu5w1lhz92d5rxw/gallo_gif_reduced.gif?rlkey=cghxr284cq8wo7wsulhuqq45z&dl=0" style="width: 100%;" alt="gallovineyard">
         </figure>
     </div>
 </div>
