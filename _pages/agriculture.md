@@ -28,23 +28,20 @@ City College of New York<br>
 
 
 <div style="text-align: center;">
-    <div style="display: flex;">
+    <div style="display: flex; flex-wrap: wrap;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
-        <div style="width: 10%;"></div> <!-- Add a spacer -->
+        <div style="width: 20%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
             <img src="https://www.dropbox.com/scl/fi/nq44msdu5w1lhz92d5rxw/gallo_gif_reduced.gif?rlkey=cghxr284cq8wo7wsulhuqq45z&dl=0" style="width: 100%;" alt="gallovineyard">
         </figure>
+        <figure style="width: 100%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
+            <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress.</figcaption>
+        </figure>
     </div>
 </div>
-<div style="text-align:center;">
-    <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress.</figcaption>
-    </figure>
-</div>
-
 
 
 Skills
