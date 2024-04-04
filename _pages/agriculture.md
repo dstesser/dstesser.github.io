@@ -31,7 +31,7 @@ City College of New York<br>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat est vel dui pharetra, sed vestibulum sapien feugiat. Duis eget ultricies ante, vel pretium nisl. Ut a velit vitae risus feugiat varius.</p>
     <div style="display: inline-block; width: 45%; vertical-align: top;">
         <figure style="margin: 0;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/dt_eyelash_viper.png" alt="Image 1" style="width: 100%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/dt_eyelash_viper.png" alt="Image 1" style="width: 50%;">
             <figcaption style="font-size: 14px; text-align: center;">Caption for Image 1</figcaption>
         </figure>
     </div>
