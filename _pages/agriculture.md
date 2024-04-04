@@ -29,10 +29,10 @@ City College of New York<br>
 
 <div style="text-align: center;">
     <div style="display: flex; flex-wrap: wrap;">
-        <figure style="width: 40%;">
+        <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
-        <div style="width: 20%;"></div> <!-- Add a spacer -->
+        <div style="width: 5%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
             <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
