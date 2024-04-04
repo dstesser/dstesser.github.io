@@ -38,7 +38,6 @@ City College of New York<br>
         </figure>
     </div>
 </div>
-
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
