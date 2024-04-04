@@ -27,19 +27,19 @@ City College of New York<br>
 * Producing reports, proposals, and conference presentations to advance project goals
 
 
-<div style="text-align: justify;">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat est vel dui pharetra, sed vestibulum sapien feugiat. Duis eget ultricies ante, vel pretium nisl. Ut a velit vitae risus feugiat varius.</p>
-    <div style="display: inline-block; width: 45%; vertical-align: top;">
-        <figure style="margin: 0;">
-            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/dt_eyelash_viper.png" alt="Image 1" style="width: 50%;">
-            <figcaption style="font-size: 14px; text-align: center;">Caption for Image 1</figcaption>
+<div style="text-align: center;">
+    <div style="display: flex;">
+        <figure style="width: 40%;">
+            <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="deforestation">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
+        </figure>
+        <div style="width: 10%;"></div> <!-- Add a spacer -->
+        <figure style="width: 40%;">
+            <img src="images/gallo_gif_reduced.gif" style="width: 100%;" alt="oil palm">
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
         </figure>
     </div>
-    <p>Mauris et risus vitae arcu facilisis suscipit in sit amet mi. Ut ut justo sit amet velit consequat maximus.</p>
-    <p>Donec id justo lobortis, consequat justo at, placerat est. Suspendisse tempus, nisl non vestibulum euismod, elit leo convallis eros, nec finibus purus leo ac nisi.</p>
 </div>
-
-
 
 
 
