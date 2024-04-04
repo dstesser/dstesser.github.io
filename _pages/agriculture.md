@@ -33,7 +33,7 @@ City College of New York<br>
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
         <div style="width: 1%;"></div> <!-- Add a spacer -->
-        <figure style="width: 40%;">
+        <figure style="width: 30%;">
             <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
         <figure style="width: 80%;">
