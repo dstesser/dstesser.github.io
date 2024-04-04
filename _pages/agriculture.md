@@ -35,7 +35,7 @@ City College of New York<br>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
-            <img src="https://github.com/dstesser/dstesser.github.io/blob/master/images/gallo_gif_reduced.gif" style="width: 100%;" alt="gallovineyard">
+            <img src="images/gallo_gif_reduced.gif" style="width: 100%;" alt="gallovineyard">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
         </figure>
     </div>
