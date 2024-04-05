@@ -91,6 +91,7 @@ Selected Presentations
 Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultura, Puerto Quito, Ecuador, November 2022<br>
 * Assessment of landcover type and thermal regimes utilizing SAR and ECOSTRESS in the Chocó Biodiversity Hotspot, Ecuador. NASA ECOSTRESS Science and Applications Team Meeting, Pasadena, CA, April 2022<br>
 * Fusing NASA ECOSTRESS and NOAA GOES-16 datasets for study of thermal regimes and water stress in terrestrial systems. AGU Fall Meeting, San Franscico, December 2019<br>
+* Resiliency and regeneration of the forestry and agriculture sector towards a circular economy in the Pannonian region of Hungary. The Institute for Advanced Studies, Koszeg, Hungary, October 2018.<br>
 * Integrated approach to inform the New York City water supply system coupling SAR remote sensing observations and the SWAT watershed model. AGU Fall Meeting, New Orleans, December 2017<br>
 
   
