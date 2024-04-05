@@ -36,7 +36,9 @@ These efforts assist indigenous communities in preserving their territorial inte
 
 ## Vegetation Structural Modeling
 
-Measure ... check TS slide deck and bootcamp for language..This data set has been used in projects looking at large scale inundation patterns and methane modeling in wetlands across the globe.
+Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
+
+Lidar technologies adapted from precision survey applications, are able create detailed maps of the three-dimensional structure and form of natural environments at a level of detail not previously available. These observations will bring about major advances in the understanding of tree dominated ecosystems and new ways to quantify biodiversity.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
@@ -44,6 +46,8 @@ Measure ... check TS slide deck and bootcamp for language..This data set has bee
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
     </figure>
 </div>
+
+This work demonstrates how quantitative structural tree-models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
 
 
 
