@@ -32,7 +32,6 @@ City College of New York<br>
         <figure style="width: 31%;">
             <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
-    </div>
     <div style="display: flex; flex-wrap: wrap; gap: -20px; margin-top: -20px;">
         <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
