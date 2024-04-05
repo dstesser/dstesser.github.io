@@ -15,9 +15,10 @@ author_profile: true
 
 ## Tropical Deforestation Monitoring
 
-Logging activities are a major ... human impact.. tracking road expansion across indigenous territories indicative of 
+Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with conservation organizations to develop satellite imagery products, informed by my fieldwork efforts, to monitor forest degradation activities in near-real time. 
 
-The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface water fraction product derived from combined passive-active microwave datasets (SSM/I, SSMIS, ERS, QuikSCAT, ASCAT). Its development was supported by the [Home Depot Illegal Logging](https://www.youtube.com/watch?v=giQQ3S_1HDk)
+These efforts assist indigenous communities in preserving their territorial integrity and sovereignty against the intrusion of industrial logging activities ([Friends of the Choco])(https://homedepot-deforestation.org/). Additionally, they aid conservation groups in establishing forest conservation corridors in biodiversity hotspots such as the Chocó rainforest of Ecuador.
+
 
 
 <div style="text-align: center;">
@@ -29,7 +30,7 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd2.png" style="width: 100%;" alt="oil palm">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in Ecuador.</figcaption>
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in the Chocó Rainforest.</figcaption>
         </figure>
     </div>
 </div>
