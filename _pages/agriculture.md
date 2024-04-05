@@ -13,7 +13,7 @@ author_profile: true
 Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with conservation organizations to develop satellite imagery products, informed by my fieldwork, to monitor forest degradation activities in near-real time. 
 
 <div style="text-align: center;">
-    <div style="display: flex; flex-wrap">
+    <div style="display: flex; flex-wrap: wrap; margin: 0 auto;">
         <figure style="width: 48%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
@@ -22,13 +22,14 @@ Logging activities and agricultural expansion are significant drivers of defores
             <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
     </div>
-    <div style="display: flex; flex-wrap: wrap; margin-top: -80px;">
+    <div style="display: flex; flex-wrap: wrap; margin: 0 auto; margin-top: -80px;">
         <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
             <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress</figcaption>
         </figure>
     </div>
 </div>
+
 
 
 
