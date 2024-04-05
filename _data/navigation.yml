@@ -9,8 +9,8 @@ main:
   - title: "Wetlands"
     url: /wetlands/  
 
-  - title: "Biodiversity Conservation"
-    url: /biodiversity_conservation/ 
+  - title: "Biodiversity"
+    url: /biodiversity/ 
   
   #- title: "Publications"
   #  url: /publications/

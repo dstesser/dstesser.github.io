@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Biodiversity Conservation"
-permalink: /biodiversity_conservation/
+title: "Biodiversity"
+permalink: /biodiversity/
 author_profile: true
 ---
 
