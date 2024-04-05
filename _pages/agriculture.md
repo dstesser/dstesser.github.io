@@ -28,7 +28,7 @@ City College of New York<br>
 
 
 <div style="text-align: center;">
-    <div style="display: flex; flex-wrap: wrap; gap: -20px; margin-bottom: -20px;">
+    <div style="display: flex; flex-wrap">
         <figure style="width: 48%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
