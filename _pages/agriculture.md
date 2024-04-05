@@ -10,7 +10,7 @@ author_profile: true
 
 ## Precision Agriculture
 
-Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with conservation organizations to develop satellite imagery products, informed by my fieldwork, to monitor forest degradation activities in near-real time. 
+Update text here on capabilities of precision ag, soil moisture monitoring, and crop health
 
 <div style="text-align: center;">
     <div style="display: flex; flex-wrap: wrap; margin: 0 auto;">
@@ -35,9 +35,7 @@ Logging activities and agricultural expansion are significant drivers of defores
 
 ## Circular Economy
 
-Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
-
-Lidar technologies adapted from precision survey applications, are able create detailed maps of the three-dimensional structure of natural environments at a level of detail not previously available. These observations will bring about major advances in the understanding of tree dominated ecosystems and new ways to quantify biodiversity.
+Update text here on what we did for agriclture inventories to reinvision circular economies
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
