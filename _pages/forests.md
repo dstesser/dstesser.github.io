@@ -43,7 +43,7 @@ Lidar technologies adapted from precision survey applications, are able create d
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Choco Biodiversity Hotspot.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest</figcaption>
     </figure>
 </div>
 
