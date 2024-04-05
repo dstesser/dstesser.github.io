@@ -31,7 +31,7 @@ These efforts assist indigenous communities in preserving their territorial inte
         </figure>
     </div>
 </div>
-<br>
+
 ## Vegetation Structural Modeling
 
 Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
