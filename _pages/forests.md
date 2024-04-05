@@ -36,7 +36,7 @@ These efforts assist indigenous communities in preserving their territorial inte
 
 Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
 
-Lidar technologies adapted from precision survey applications, are able create detailed maps of the three-dimensional structure and form of natural environments at a level of detail not previously available. These observations will bring about major advances in the understanding of tree dominated ecosystems and new ways to quantify biodiversity.
+Lidar technologies adapted from precision survey applications, are able create detailed maps of the three-dimensional structure of natural environments at a level of detail not previously available. These observations will bring about major advances in the understanding of tree dominated ecosystems and new ways to quantify biodiversity.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
