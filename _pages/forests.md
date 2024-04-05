@@ -18,7 +18,6 @@ author_profile: true
 Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with conservation organizations to develop satellite imagery products, informed by my fieldwork, to monitor forest degradation activities in near-real time. 
 
 These efforts assist indigenous communities in preserving their territorial integrity against the intrusion of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, they aid <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in establishing forest conservation corridors in biodiversity hotspots such as the Chocó rainforest of western Ecuador.
-
 <div style="text-align: center;">
     <div style="display: flex;">
         <figure style="width: 40%;">
@@ -32,7 +31,6 @@ These efforts assist indigenous communities in preserving their territorial inte
         </figure>
     </div>
 </div>
-
 
 ## Vegetation Structural Modeling
 
