@@ -32,7 +32,8 @@ City College of New York<br>
         <figure style="width: 31%;">
             <img src="https://dstesser.github.io/images/gallo_gif_resized2.gif" style="width: 100%;" alt="gallovineyard">
         </figure>
-    <div style="display: flex; flex-wrap: wrap; gap: -20px; margin-top: -20px;">
+    </div>
+    <div style="display: flex; flex-wrap: wrap; margin-top: -80px;">
         <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
             <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress.</figcaption>
