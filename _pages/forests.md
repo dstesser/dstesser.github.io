@@ -17,7 +17,7 @@ author_profile: true
 
 Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with conservation organizations to develop satellite imagery products, informed by my fieldwork, to monitor forest degradation activities in near-real time. 
 
-These efforts assist indigenous communities in preserving their territorial integrity against the intrusion of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, they aid <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in establishing forest conservation corridors in biodiversity hotspots such as the Chocó rainforest of western Ecuador.
+These efforts assist indigenous communities in preserving their territorial integrity against the intrusion of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, they aid <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in establishing forest conservation corridors in biodiversity hotspots such as the Chocó rainforest of western Ecuador.<br>
 <div style="text-align: center;">
     <div style="display: flex;">
         <figure style="width: 40%;">
@@ -31,7 +31,7 @@ These efforts assist indigenous communities in preserving their territorial inte
         </figure>
     </div>
 </div>
-
+<br>
 ## Vegetation Structural Modeling
 
 Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
@@ -44,7 +44,6 @@ Lidar technologies adapted from precision survey applications, are able create d
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest</figcaption>
     </figure>
 </div>
-
 This work demonstrates how quantitative structural tree-models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
 
 
