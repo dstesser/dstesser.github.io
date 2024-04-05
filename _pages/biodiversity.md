@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biodiversity"
+title: "Biodiversity Conservation"
 permalink: /biodiversity/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Biodiversity Conservation
+## Tropical Forest Regeneration
 In this project in Hungary we...<br>
 M.S. in Biology, New York University, 2011<br>
 B.S. in History and International Relations, Brandeis University, 2009
@@ -43,7 +43,7 @@ City College of New York<br>
 
 
 
-Skills
+Biological Inventories
 ======
 __Hard Skills__<br>
 Geospatial Analysis | Data Processing | Machine Learning | Scientific Computing | Environmental
