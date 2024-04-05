@@ -55,7 +55,7 @@ Proposal Development | Grant Writing | Data Visualization | Project Management<b
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pannonian_circular_economy.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Pannonian Region Circular Economy.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Agricultural classification with Sentinel-1 imaging radar to develop a circular economy in the Pannonian region of Hungary</figcaption>
     </figure>
 </div>
 
