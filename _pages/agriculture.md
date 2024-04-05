@@ -56,3 +56,10 @@ Modeling | Ecological Investigations | Drone Operation<br>
 __Transferable Skills__<br>
 Proposal Development | Grant Writing | Data Visualization | Project Management<br>
 
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pannonian_circular_economy.jpg" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Pannonian Region Circular Economy.</figcaption>
+    </figure>
+</div>
+
