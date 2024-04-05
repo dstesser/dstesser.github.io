@@ -41,7 +41,7 @@ Lidar technologies adapted from precision survey applications, are able create d
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data we collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data we collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research.</figcaption>
     </figure>
 </div>
 This work demonstrates how quantitative structural tree-models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
