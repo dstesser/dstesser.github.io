@@ -40,7 +40,7 @@ Proposal Development | Grant Writing | Data Visualization | Project Management<b
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya_dems_img.png" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">DEM Pacaya</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Drone image (left), vegetation structure model (center), and terrain elevation model (right) at the NASA wetland calibration/validation site in the Peruvian Amazon </figcaption>
     </figure>
 </div>
 
