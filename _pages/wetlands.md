@@ -21,7 +21,7 @@ Update text here on what we did for agriclture inventories to reinvision circula
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 60%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 80%;">
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Mangroves Colombia</figcaption>
     </figure>
 </div>
