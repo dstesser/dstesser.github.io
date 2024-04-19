@@ -19,7 +19,7 @@ Logging activities and agricultural expansion are significant drivers of defores
 
 These efforts assist indigenous communities in preserving their territorial integrity against the intrusion of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, they aid <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in establishing forest conservation corridors in biodiversity hotspots such as the Chocó rainforest of western Ecuador.<br>
 <div style="text-align: center;">
-    <div style="display: flex;">
+    <div style="display: flex; justify-content: center;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
