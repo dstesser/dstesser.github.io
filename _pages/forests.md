@@ -47,7 +47,7 @@ Lidar technologies adapted from precision survey applications, are able create d
 This work demonstrates how quantitative structural tree-models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
 
 
-<div style="text-align:left;">
+<div>
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/drone%20itapoa.jpg" style="width: 30%;">
         <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin: 0 auto;">The first drone flight in the Itapoa Reserve, Ecuador, after a ten-hour incredible hike to this pristine hotspot of tropical biodiversity.</figcaption>
