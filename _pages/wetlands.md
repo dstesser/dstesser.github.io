@@ -46,8 +46,8 @@ Seasonal flooding in this system is a major transporter of carbon from the Amazo
 
 
 <div style="display: flex; justify-content: center;">
-    <div style="width: 50%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align: justify;">Water inundation marks ... NASA wetland calibration/validation site in the Peruvian Amazon. Our team spent a month conducting fieldwork here in support of NASA's upcoming NISAR mission.</figcaption>
+    <div style="width: 100%;">
+        <figcaption style="font-size: 20px; max-width: 90%; text-align: justify;">Water inundation marks ... NASA wetland calibration/validation site in the Peruvian Amazon. Our team spent a month conducting fieldwork here in support of NASA's upcoming NISAR mission.</figcaption>
     </div>
     <figure style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya%20overview%20watermarks.png" style="width: 50%;">
