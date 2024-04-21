@@ -45,9 +45,9 @@ Update text here on what we did for agriclture inventories to reinvision circula
 </div>
 
 
-<div>
-    <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 70%;">
+<div style="text-align:left;">
+    <figure style="display:inline-block; text-align: left;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 60%;">
         <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin: 0 auto;">The first drone flight in the Itapoa Reserve, Ecuador, after a ten-hour incredible hike to this pristine hotspot of tropical biodiversity.</figcaption>
     </figure>
 </div>
