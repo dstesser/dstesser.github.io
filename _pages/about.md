@@ -28,7 +28,6 @@ I am a research scientist at the City College of New York developing environment
 
 Spacer here
 
-https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/bothrops_group.jpg
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
