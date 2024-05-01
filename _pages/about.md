@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings. Thank you for visiting my personal page. I enjoying working in various roles, including remote sensing scientist, Earth science educator, and mapping enthusiast.
+Welcome to my personal page. I enjoy working in various roles, including remote sensing scientist, biodiversity conservation, and environmental science educator.
 
 I am a research scientist at the City College of New York developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR) and drone imagery. In previous roles, I've worked on:
 
