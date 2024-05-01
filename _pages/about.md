@@ -31,7 +31,7 @@ Spacer here
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/bothrops_group.jpg" style="width: 50%;">
-        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Biodiversity research field campaign in Ecuador's Chocó Biodiversity Hotspot. I have led student, scientist, and tourist groups</figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/bothrops_group.jpg" style="width: 75%;">
+        <figcaption style="font-size: 15px; max-width: 75%; text-align:justify; margin: 0 auto; margin-top: -15px;">Biodiversity research field campaign in Ecuador's Chocó Biodiversity Hotspot. I have led student, scientist, and tourist groups</figcaption>
     </figure>
 </div>
