@@ -45,6 +45,23 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
     </figure>
 </div>
 
+
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/foresty%20data%20collections.png" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;">Recording the first ever drone flight in the Itapoa Reserve, Ecuador. We explored the site after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
+    </figure>
+</div>
+
+
+
+
+
+
+
+
+
+
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/drone%20itapoa.jpg" style="width: 30%;">
