@@ -86,7 +86,7 @@ Collaborations and Affilations
   
 Selected Presentations
 ======
-* Assessment of tropical deforestation in the Ecuadorian Choco associated with Home Depot supplier logging activities. Home Depot Headquarters, Atlanta, GA, September 2023<br>
+* Assessment of tropical deforestation in the Ecuadorian Chocó associated with Home Depot supplier logging activities. Home Depot Headquarters, Atlanta, GA, September 2023<br>
 * Usando sensores remotos satelitales para mapeo de ecosistemas y biodiversidad del Chocó. El
 Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultura, Puerto Quito, Ecuador, November 2022<br>
 * Assessment of landcover type and thermal regimes utilizing SAR and ECOSTRESS in the Chocó Biodiversity Hotspot, Ecuador. NASA ECOSTRESS Science and Applications Team Meeting, Pasadena, CA, April 2022<br>
@@ -99,7 +99,7 @@ Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultu
   
 Selected Publications
 ======
-1. Tesser, D., E., Tremlett, C.J., Newell, F.L., Villa-Galaviz, E., Blüthgen, N., Shafer, M., Podest, E., McDonald, K.C., 2024. Monitoring tropical forest disturbance and recovery with multi-decade spaceborne synthetic aperture radar in the Choco biodiversity hotspot, Ecuador. (Manuscript in preparation). 
+1. Tesser, D., E., Tremlett, C.J., Newell, F.L., Villa-Galaviz, E., Blüthgen, N., Shafer, M., Podest, E., McDonald, K.C., 2024. Monitoring tropical forest disturbance and recovery with multi-decade spaceborne synthetic aperture radar in the Chocó biodiversity hotspot, Ecuador. (Manuscript in preparation). 
 2. Tesser, D., Nieto, R., McDonald, K.C., 2024. Structural and thermal assessment of tropical forest transition to oil palm agriculture in the Chocó ecoregion using sUAV. (Manuscript in preparation). 
 3. Tesser, D., Podest, E., McDonald, K.C., 2024. Characterization of ecosystem functional types utilizing integrated SAR, LiDAR, and ECOSTRESS observations to identify priority regions for biodiversity conservation. (Manuscript in preparation). 
 4. Davitt, A., Tesser, D., Gamarro, H., Anderson, M., Knipper, K., Xue, J., Kustas, W., Alsina, M.M., Podest, E. and McDonald, K., 2022. The complementary uses of Sentinel-1A SAR and ECOSTRESS datasets to identify vineyard growth and conditions: a case study in Sonoma County, California. Irrigation Science, pp.1-27.

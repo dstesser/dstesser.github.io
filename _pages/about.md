@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page. I enjoy working in various roles, including remote sensing scientist, biodiversity conservation, and environmental science educator.
+Welcome to my personal page, which highlights some of my research and related endeavors. I have experience working across diverse roles, including remote sensing scientist, biodiversity  conservationist, and environmental science educator.
 
-I am a research scientist at the City College of New York developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR) and drone imagery. In previous roles, I've worked on:
+If you would like more information on these projects or are interested in collaborating, feel free to contact me at dstesser@gmail.com
 
-* Developing machine learning and computer vision algorithms for agricultural monitoring and mapping of regenerative practices at **[Indigo Ag](https://www.indigoag.com/)**
-* Regional to global scale mapping of surface water patterns and wetlands classification using a variety of different satellite and aerial remote sensing data, at the **City College of New York** and **NASA Jet Propulsion Laboratory (JPL)**
-* Flood risk assessments and supply deployment recommendations at the **Red Cross/Red Crescent Climate Centre**
-* Assimilating regional weather forecasts and crop yield models at the **International Research Institute for Climate and Society (IRI)** at Columbia University
+Currently, I am a researcher at the City College of New York developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR), optical/IR, and Lidar imagery acquired by satellites and drones. Some of my projects include:
 
-<!--You can learn more about some of my current and former open-source research projects [here](https://katjensen.github.io/research)-->
+* Assessing the degradation and recovery of tropical forests to evaluate nature-based climate solutions
+* Monitoring crop health and developing agricultural inventories to guide sustainable ESG strategies
+* Fusing ecosystem and landcover data from diverse sources to identify priority regions for biodiversity conservation
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
@@ -25,9 +24,6 @@ I am a research scientist at the City College of New York developing environment
         <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Chocó Biodiversity Hotspot.</figcaption>
     </figure>
 </div>
-
-Spacer here
-
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
