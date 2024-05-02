@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page, which highlights some of my research and related endeavors. I have experience working across diverse roles, including remote sensing scientist, biodiversity  conservationist, and environmental science educator.
+Welcome to my personal page, which highlights some of my work and related endeavors. My research focuses on developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR), optical/IR, and Lidar imagery acquired by satellites and drones. 
 
-Currently, I am a researcher at the City College of New York developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR), optical/IR, and Lidar imagery acquired by satellites and drones. Some of my projects include:
+I have experience working across diverse roles, including remote sensing scientist, biodiversity  conservationist, and environmental science educator. Some of my projects include:
 
 * Assessing the degradation and recovery of tropical forests to evaluate nature-based climate solutions
 * Monitoring crop health and developing agricultural inventories to guide sustainable ESG strategies
