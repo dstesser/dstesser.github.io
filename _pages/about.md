@@ -20,13 +20,13 @@ If you would like more information on these projects or are interested in collab
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="images/siteoverview4.gif" style="width: 75%;">
-        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed the Japanese Space Agency's  PALSAR-2 satellite data to reveal diverse landcover types in Ecuador's Chocó Biodiversity Hotspot.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 75%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. I process Japanese Space Agency's PALSAR-2 satellite data to reveal diverse landcover types in Ecuador's Chocó Biodiversity Hotspot and guide habitat restoration initiatives.</figcaption>
     </figure>
 </div>
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/bothrops_group.jpg" style="width: 75%;">
-        <figcaption style="font-size: 15px; max-width: 75%; text-align:justify; margin: 0 auto; margin-top: -15px;">Group photo taken during a biodiversity research campaign in the Ecuadorian jungle. I've organized numerous tropical forest expeditions for students, scientists, and environmentalists, advancing geospatial research applications and informing conservation policy recommendations.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 75%; text-align:justify; margin: 0 auto; margin-top: -15px;">Group photo during a biodiversity research campaign in the Ecuadorian jungle. I've organized numerous tropical forest expeditions for students, scientists, and environmentalists, advancing geospatial research applications and informing conservation policy recommendations.</figcaption>
     </figure>
 </div>
