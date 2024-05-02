@@ -47,7 +47,7 @@ Update text here on what we did for agriclture inventories to reinvision circula
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 30%;">
-        <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin-top: -15px;">Our publication on reconceptualized economic strategies and science-backed policy recommendations for sustainable development </figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 40%;">
+        <figcaption style="font-size: 15px; max-width: 40%; text-align:left; margin-top: -15px;">Our publication on reconceptualized economic strategies and science-backed policy recommendations for sustainable development. </figcaption>
     </figure>
 </div>
