@@ -20,7 +20,7 @@ B.S. in History and International Relations, Brandeis University, 2009
 Work Experience
 ======
 __2020 - Current: Research Scientist__<br>
-City College of New York
+City College of New York<br>
   • Developing vegetation structural models from combined satellite and drone imagery<br>
   • Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
   • Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
