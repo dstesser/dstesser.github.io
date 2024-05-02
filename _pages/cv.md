@@ -21,29 +21,29 @@ Work Experience
 ======
 __2020 - Current: Research Scientist__<br>
 City College of New York<br>
-<blockquote>• Developing vegetation structural models from combined satellite and drone imagery<br>
-<blockquote>• Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
-  • Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
-  • Producing reports, proposals, and conference presentations to advance project goals
+• Developing vegetation structural models from combined satellite and drone imagery<br>
+• Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
+• Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
+• Producing reports, proposals, and conference presentations to advance project goals
 
 __2019 - Current: Independent Consultant__<br>
 TerraSigma LLC<br>
-  • Advising on carbon and biomass potentials for nature-based solutions within the forestry and agriculture sectors<br>
-  • Producing tailored reports of tropical deforestation and regrowth activities, customized for NGOs and non-profits<br>
-  • Guide assessments of carbon potential for landowners and project developers for participation in carbon markets
+• Advising on carbon and biomass potentials for nature-based solutions within the forestry and agriculture sectors<br>
+• Producing tailored reports of tropical deforestation and regrowth activities, customized for NGOs and non-profits<br>
+• Guide assessments of carbon potential for landowners and project developers for participation in carbon markets
 
 __2012 - 2024: Faculty in Science and Mathematics__<br>
 The City University of New York<br>
-  • Facilitated the startup of Guttman Community College, developed curriculum and taught inaugural classes<br>
-  • Managed compliance with New York State sustainability regulations and supervised reporting as University liaison<br>
-  • Established study abroad initiative, securing $200K+ in funding for research program on Ecuador rainforest biodiversity<br>
-  • Served on governing bodies to establish procedures guiding accreditation, institutional operations, and state-mandated activities
+• Facilitated the startup of Guttman Community College, developed curriculum and taught inaugural classes<br>
+• Managed compliance with New York State sustainability regulations and supervised reporting as University liaison<br>
+• Established study abroad initiative, securing $200K+ in funding for research program on Ecuador rainforest biodiversity<br>
+• Served on governing bodies to establish procedures guiding accreditation, institutional operations, and state-mandated activities
 
 __2011 - 2012: Laboratory Technician and Teaching Adjunct__<br>
 New York University<br>
-  • Established procedures for biological sample prep, DNA extraction, and genetic analysis to support research projects<br>
-  • Trained laboratory staff, faculty, and research students in best practices and protocols<br>
-  • Managed biological and chemical inventories and conducted equipment inspections in accordance
+• Established procedures for biological sample prep, DNA extraction, and genetic analysis to support research projects<br>
+• Trained laboratory staff, faculty, and research students in best practices and protocols<br>
+• Managed biological and chemical inventories and conducted equipment inspections in accordance
 with environmental safety standards
 
 
