@@ -44,8 +44,6 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research objectives.</figcaption>
     </figure>
 </div>
-This work demonstrates how quantitative structural models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
-
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
@@ -54,3 +52,4 @@ This work demonstrates how quantitative structural models that approximate the s
     </figure>
 </div>
 
+This work demonstrates how quantitative structural models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
