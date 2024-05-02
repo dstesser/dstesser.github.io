@@ -40,7 +40,7 @@ Seasonal flooding in this system is a major transporter of carbon from the Amazo
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya_dems_img.png" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Drone image (left), vegetation structure model (center), and terrain elevation model (right) I collected and processed at the NASA wetland calibration/validation site in the Peruvian Amazon. My collaboration network has dedicated years to conducting fieldwork and remote sensing investigations in the Amazon, advancing NASA wetland science research.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Drone image (left), vegetation structure model (center), and terrain elevation model (right) that I collected and developed from the NASA wetland calibration/validation site in the Peruvian Amazon. My collaboration network has dedicated years to conducting fieldwork and remote sensing investigations in the Amazon, advancing NASA wetland science research.</figcaption>
     </figure>
 </div>
 
