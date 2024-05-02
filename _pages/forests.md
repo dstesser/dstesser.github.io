@@ -34,23 +34,23 @@ Applications of this work have aided indigenous communities in preserving territ
 
 ## Vegetation Structural Modeling
 
-Detailed information on vegetation structure is a key indicator of ecosystem processes, including carbon storage. However local-scale vegetation structure is complex in tropical and temperate forest ecosystems, leading to uncertainty in biomass and carbon quantification. 
+Comprehensive data on vegetation structure serves as a crucial indicator of ecosystem processes, such as carbon storage. However, the complexity of local-scale vegetation structure in tropical and temperate forest ecosystems leads to uncertainties in biomass and carbon quantification.
 
 I employ precision survey techniques using Lidar and drone photogrammetry to generate highly detailed 3D maps of natural environments. These methodologies enhance the accuracy of assessing carbon storage and biomass potentials, thereby informing the development of nature-based climate solutions aimed at decarbonization strategies.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data we collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research objectives.</figcaption>
     </figure>
 </div>
-This work demonstrates how quantitative structural tree-models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
+This work demonstrates how quantitative structural models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
 
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/drone%20itapoa.jpg" style="width: 30%;">
-        <figcaption style="font-size: 15px; max-width: 30%; text-align:left;">The first ever drone flight in the Itapoa Reserve, Ecuador, after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin: 0 auto; margin-top: -15px;">The first ever drone flight in the Itapoa Reserve, Ecuador, after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
     </figure>
 </div>
 
