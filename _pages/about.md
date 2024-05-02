@@ -17,11 +17,10 @@ My research focuses on developing environmental monitoring capabilities from Syn
 * Fusing ecosystem and landcover data from diverse sources to identify priority regions for biodiversity conservation
 
 If you would like more information on these projects or are interested in collaborating, feel free to contact me at dstesser@gmail.com
-
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="images/siteoverview4.gif" style="width: 75%;">
-        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed JAXA's PALSAR-2 satellite data (radar) to reveal different landcover types in Ecuador's Chocó Biodiversity Hotspot.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:justify; margin: 0 auto; margin-top: -15px;">Radar imaging satellites "see" through clouds that obscure tropical rainforests. Here I processed the Japanese Space Agency's  PALSAR-2 satellite data to reveal diverse landcover types in Ecuador's Chocó Biodiversity Hotspot.</figcaption>
     </figure>
 </div>
 
