@@ -50,7 +50,7 @@ This work demonstrates how quantitative structural models that approximate the s
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/drone%20itapoa.jpg" style="width: 30%;">
-        <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin: 0 auto; margin-top: -15px;">The first ever drone flight in the Itapoa Reserve, Ecuador, after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 30%; text-align:left; margin-top: -15px;">The first ever drone flight in the Itapoa Reserve, Ecuador, after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
     </figure>
 </div>
 
