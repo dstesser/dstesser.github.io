@@ -17,7 +17,7 @@ author_profile: true
 
 Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with organizations to develop geospatial data products to monitor near-real time forest degradation. 
 
-Applications of this work have aided indigenous communities in preserving their territorial integrity against the intrusion of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects aimed at establishing biodiversity corridors.<br>
+Applications of this work have aided indigenous communities in preserving territorial integrity against <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects aimed at establishing biodiversity corridors.<br>
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center;">
         <figure style="width: 40%;">
