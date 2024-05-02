@@ -19,7 +19,7 @@ Logging activities and agricultural expansion are significant drivers of defores
 
 Applications of this work have aided indigenous communities in preserving territorial integrity against <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects aimed at establishing biodiversity corridors.<br>
 <div style="text-align: center;">
-    <div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center; margin-top: -10px;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
@@ -40,7 +40,7 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/f773f8d32b5d4dbee2b146b285388ed36ff59b96/images/vegetationstructure2.jpg" style="width: 100%; margin-top: -10px;">
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">These vegetation structural models were developed from lidar and drone photogrammetry data collected at Harvard Forest ecological research site and Brazil's Amazon White Sands forest. The data has been used to advance NASA Earth science research objectives.</figcaption>
     </figure>
 </div>
