@@ -21,8 +21,8 @@ Work Experience
 ======
 __2020 - Current: Research Scientist__<br>
 City College of New York<br>
-      • Developing vegetation structural models from combined satellite and drone imagery<br>
-      • Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
+<blockquote>• Developing vegetation structural models from combined satellite and drone imagery<br>
+<blockquote>• Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
   • Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
   • Producing reports, proposals, and conference presentations to advance project goals
 
