@@ -10,13 +10,13 @@ redirect_from:
 
 Welcome to my personal page, which highlights some of my research and related endeavors. I have experience working across diverse roles, including remote sensing scientist, biodiversity  conservationist, and environmental science educator.
 
-If you would like more information on these projects or are interested in collaborating, feel free to contact me at dstesser@gmail.com
-
 Currently, I am a researcher at the City College of New York developing environmental monitoring capabilities from Synthetic Aperture Radar (SAR), optical/IR, and Lidar imagery acquired by satellites and drones. Some of my projects include:
 
 * Assessing the degradation and recovery of tropical forests to evaluate nature-based climate solutions
 * Monitoring crop health and developing agricultural inventories to guide sustainable ESG strategies
 * Fusing ecosystem and landcover data from diverse sources to identify priority regions for biodiversity conservation
+
+If you would like more information on these projects or are interested in collaborating, feel free to contact me at dstesser@gmail.com
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
