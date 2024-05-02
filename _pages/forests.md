@@ -48,7 +48,7 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/foresty%20data%20collections.png" style="width: 100%;">
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/foresty%20data%20collections.png" style="width: 100%; margin-top: 30px;">
         <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;">Recording the first ever drone flight in the Itapoa Reserve, Ecuador. We explored the site after an incredible ten-hour hike to this pristine hotspot of tropical biodiversity.</figcaption>
     </figure>
 </div>
@@ -61,7 +61,7 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
 
 
 
-
+<!--
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/drone%20itapoa.jpg" style="width: 30%;">
@@ -70,3 +70,4 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
 </div>
 
 This work demonstrates how quantitative structural models that approximate the size and orientation of tree stems and branches can be used to extract vegetation geometries to define plot-scale plant physiology from lidar observations. 
+-->
