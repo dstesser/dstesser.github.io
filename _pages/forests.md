@@ -15,7 +15,7 @@ author_profile: true
 
 ## Tropical Deforestation Monitoring
 
-Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with organizations to develop geospatial data products to monitor near-real time forest degradation. 
+Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests. I collaborate with organizations to develop geospatial data products for monitoring near-real time forest degradation. 
 
 Applications of this work have aided indigenous communities in preserving territorial integrity against <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects aimed at establishing biodiversity corridors.<br>
 <div style="text-align: center;">
@@ -34,9 +34,9 @@ Applications of this work have aided indigenous communities in preserving territ
 
 ## Vegetation Structural Modeling
 
-Detailed information on vegetation structure is a fundamental indicator of functions, including carbon storage. Community biodiversity is dependent on local-scale vegetation structure, which can be complex in tropical and temperate forest ecosystems. 
+Detailed information on vegetation structure is a key indicator of ecosystem processes, including carbon storage. However local-scale vegetation structure is complex in tropical and temperate forest ecosystems, leading to uncertainty in biomass and carbon quantification. 
 
-Lidar technologies adapted from precision survey applications, are able create detailed maps of the three-dimensional structure of natural environments at a level of detail not previously available. These observations will bring about major advances in the understanding of tree dominated ecosystems and new ways to quantify biodiversity.
+I employ precision survey techniques using Lidar and drone photogrammetry to generate highly detailed 3D maps of natural environments. These methodologies enhance the accuracy of assessing carbon storage and biomass potentials, thereby informing the development of nature-based climate solutions aimed at decarbonization strategies.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
