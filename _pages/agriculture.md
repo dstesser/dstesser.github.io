@@ -48,6 +48,6 @@ Update text here on what we did for agriclture inventories to reinvision circula
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 40%;">
-        <figcaption style="font-size: 15px; max-width: 42%; text-align:left; margin-top: -15px;">Collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development </figcaption>
+        <figcaption style="font-size: 15px; max-width: 42%; text-align:left; margin-top: -15px;">Our collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development in Hungary</figcaption>
     </figure>
 </div>
