@@ -10,9 +10,13 @@ author_profile: true
 
 ## Precision Agriculture
 
-Update text here on capabilities of precision ag, soil moisture monitoring, and crop health
+Precision agriculture, utilizing satellites and drones, optimizes farming efficiency and sustainability by enabling accurate crop health monitoring. This includes early detection of stress, disease, or nutrient deficiencies. 
 
-Research sites include vineyards in Long Island, NY, and So and experimental agriculture
+Additionally, precise monitoring supports accurate estimates of carbon sequestration, aiding the development of sustainable agriculture practices and climate mitigation strategies. These images highlight agricultural research conducted at the following sites:
+• NASA’s GRAPEX vineyards in Sonoma, CA<br>
+• Pindar vineyards in Long Island, NY<br>
+• University of Florida Institute Of Food And Agricultural Sciences<br>
+
 
 <div style="text-align: center;">
     <div style="display: flex; flex-wrap">
