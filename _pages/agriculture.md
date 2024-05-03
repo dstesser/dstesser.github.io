@@ -13,7 +13,7 @@ author_profile: true
 Precision agriculture, utilizing satellites and drones, optimizes farming efficiency and sustainability by enabling accurate crop health monitoring. This includes early detection of stress, disease, or nutrient deficiencies. 
 
 Additionally, precise monitoring supports accurate estimates of carbon sequestration, aiding the development of sustainable agriculture practices and climate mitigation strategies. These images highlight agricultural research conducted at the following sites:<br>
-•  <a href="https://www.nasa.gov/centers-and-facilities/ames/raising-a-glass-in-wine-country-to-better-water-management/" target="_blank">NASA’s GRAPEX</a>vineyards in Sonoma, CA<br>
+• <a href="https://www.nasa.gov/centers-and-facilities/ames/raising-a-glass-in-wine-country-to-better-water-management/" target="_blank">NASA’s GRAPEX</a>vineyards in <a href="https://doi.org/10.1007/s00271-022-00781-3" target="_blank">Sonoma, CA</a><br>
 • UC Davis Russell Ranch sustainable agriculture research center<br>
 • Pindar vineyards in Long Island, NY<br>
 • University of Florida Institute Of Food And Agricultural Sciences<br>
