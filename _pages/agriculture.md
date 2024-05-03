@@ -31,7 +31,7 @@ Additionally, precise monitoring supports accurate estimates of carbon sequestra
     <div style="display: flex; flex-wrap: wrap; margin-top: -80px;">
         <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
-            <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drone imagery for mapping crop health, soil moisture, and carbon cycling processes. Sites include vineyards in California and New York and experiment research farms in Florida and California.</figcaption>
+            <figcaption style="font-size: 15px; max-width: 95%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drone imagery for mapping crop health, soil moisture, and carbon cycling processes. Sites include vineyards in California and New York and experiment research farms in Florida and California.</figcaption>
         </figure>
     </div>
 </div>
