@@ -12,6 +12,8 @@ author_profile: true
 
 Update text here on capabilities of precision ag, soil moisture monitoring, and crop health
 
+Research sites include vineyards in Long Island, NY, and So and experimental agriculture
+
 <div style="text-align: center;">
     <div style="display: flex; flex-wrap">
         <figure style="width: 48%;">
@@ -25,7 +27,7 @@ Update text here on capabilities of precision ag, soil moisture monitoring, and 
     <div style="display: flex; flex-wrap: wrap; margin-top: -80px;">
         <figure style="width: 80%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/uf_russellranch_combined.png" style="width: 100%;">
-            <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drones for mapping crop health, soil moisture, and vegetation stress</figcaption>
+            <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Precision agriculture using drone imagery I collected for mapping crop health, soil moisture, and carbon cycling processes.</figcaption>
         </figure>
     </div>
 </div>
