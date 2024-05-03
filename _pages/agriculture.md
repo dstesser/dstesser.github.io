@@ -18,9 +18,9 @@ The following images highlight agricultural research I conducted at:<br>
 • Pindar Vineyards in Long Island, NY<br>
 • University of Florida Institute of Food And Agricultural Sciences
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: -10px">
     <div style="display: flex; flex-wrap">
-        <figure style="width: 48%; margin-top: -5px">
+        <figure style="width: 48%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/slantrangegallo.jpg" style="width: 100%;" alt="pindarvineyard">
         </figure>
         <div style="width: 1%;"></div> <!-- Add a spacer -->
