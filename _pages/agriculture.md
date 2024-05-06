@@ -34,9 +34,6 @@ The following maps I developed highlight agricultural research conducted at:<br>
     </div>
 </div>
 
-
-
-
 ## Circular Economy
 
 Circular economic approaches aim to shift away from traditional production practices that generate high carbon footprints, focusing instead on maximizing resource efficiency through optimizing local production and trade of goods. Remote sensing technologies provide crucial data for developing inventories of local agricultural, forestry, and energy resources. 
