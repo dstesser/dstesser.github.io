@@ -56,7 +56,7 @@ Serving as the lead for the forestry and agriculture sector, our research findin
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 100%; text-align:left; margin-top: -15px;">Brown et al. (2019) </figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 80%;">
+        <figcaption style="font-size: 15px; max-width: 80%; text-align:left; margin-top: -15px;">Brown et al. (2019). Resiliency and regeneration in the Pannonian region of Hungary: towards a circular economy for Koszeg and beyond.</figcaption>
     </figure>
 </div>
