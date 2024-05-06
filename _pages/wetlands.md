@@ -7,17 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-## NASA'S NISAR Mission
-In this project in Hungary we...<br>
-M.S. in Biology, New York University, 2011<br>
-B.S. in History and International Relations, Brandeis University, 2009
-
-Work Experience
-======
-__2020 - Current: Research Scientist__<br>
-
-Update text here on what we did for agriclture inventories to reinvision circular economies
+Wetland ecosystems play a significant role in land-atmosphere carbon exchange and are vital components of the global climate system, crucial for sustaining biological diversity. Accurate assessment of wetland inundation dynamics is essential for comprehending their function as carbon sinks and for devising effective mitigation strategies to address climate change.
 
 <div style="text-align:left;">
     <figure style="display:inline-block;">
