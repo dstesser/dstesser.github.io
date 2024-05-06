@@ -52,11 +52,11 @@ This data enables stakeholders to optimize supply chains, identify opportunities
 </div>
 The workflow depicted above showcases my work focused on the resilience and regeneration of the forestry and agriculture sectors towards a circular economy in Hungary's Pannonian region. This joint project was conducted in collaboration with the <a href="https://iask.hu/en/" target="_blank">Institute of Advanced Studies Kőszeg</a> (iASK) and the City College of New York. 
 
-Serving as the lead for the forestry and agriculture sector, our research findings were subsequently published in the following collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
+Serving as the lead for the forestry and agriculture sector, our research findings were published in the following collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 35%;">
-        <figcaption style="font-size: 15px; max-width: 35%; text-align:left; margin-top: -15px;">Brown et al. (2019) </figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 50%;">
+        <figcaption style="font-size: 15px; max-width: 50%; text-align:left; margin-top: -15px;">Brown et al. (2019) </figcaption>
     </figure>
 </div>
