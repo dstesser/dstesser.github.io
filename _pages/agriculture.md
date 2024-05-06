@@ -50,13 +50,13 @@ This data enables stakeholders to optimize supply chains, identify opportunities
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Agricultural classification with the European Sentinel-1 satellite to develop a circular economy in the Pannonian region of Hungary</figcaption>
     </figure>
 </div>
-The workflow depicted above showcases a project emphasizing the resilience and regeneration of the forestry and agriculture sectors towards a circular economy in Hungary's Pannonian region. This project was conducted in collaboration with the <a href="https://iask.hu/en/" target="_blank">Institute of Advanced Studies Kőszeg</a> (iASK). 
+The workflow depicted above showcases my work focused on the resilience and regeneration of the forestry and agriculture sectors towards a circular economy in Hungary's Pannonian region. This joint project was conducted in collaboration with the <a href="https://iask.hu/en/" target="_blank">Institute of Advanced Studies Kőszeg</a> (iASK) and the City College of New York. 
 
-Serving as the lead for the forestry and agriculture sector, our research findings were subsequently published in this collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
+Serving as the lead for the forestry and agriculture sector, our research findings were subsequently published in the following collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 35%;">
-        <figcaption style="font-size: 15px; max-width: 35%; text-align:left; margin-top: -15px;"> </figcaption>
+        <figcaption style="font-size: 15px; max-width: 35%; text-align:left; margin-top: -15px;">Brown et al. (2019) </figcaption>
     </figure>
 </div>
