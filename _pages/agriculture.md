@@ -39,7 +39,10 @@ The following maps I developed highlight agricultural research conducted at:<br>
 
 ## Circular Economy
 
-Update text here on what we did for agriclture inventories to reinvision circular economies
+Circular economic approaches aim to shift away from traditional production practices that generate high carbon footprints, focusing instead on maximizing resource efficiency through optimizing local production and trade of goods. Remote sensing technologies provide crucial data for developing inventories of local agricultural, forestry, and energy resources. 
+
+This data enables stakeholders to optimize supply chains, identify opportunities for resource recovery and reuse, and maximize regional goods exchange. Implementing these strategies can lead to lower carbon footprints in production and supply chains, providing a significant climate mitigation solution.
+
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
@@ -51,7 +54,7 @@ Update text here on what we did for agriclture inventories to reinvision circula
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 40%;">
-        <figcaption style="font-size: 15px; max-width: 42%; text-align:left; margin-top: -15px;">Our collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development in Hungary</figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 35%;">
+        <figcaption style="font-size: 15px; max-width: 37%; text-align:left; margin-top: -15px;">Our collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development in Hungary</figcaption>
     </figure>
 </div>
