@@ -50,6 +50,7 @@ This data enables stakeholders to optimize supply chains, identify opportunities
         <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Agricultural classification with the European Sentinel-1 satellite to develop a circular economy in the Pannonian region of Hungary</figcaption>
     </figure>
 </div>
+The workflow depicted above showcases a project emphasizing the resilience and regeneration of the forestry and agriculture sectors towards a circular economy in Hungary's Pannonian region. This project was conducted in collaboration with the <a href="https://iask.hu/en/" target="_blank">Institute of Advanced Studies Kőszeg</a> (iASK). 
 
 Serving as the lead for the forestry and agriculture sector, our research findings were subsequently published in this collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
 
