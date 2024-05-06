@@ -51,10 +51,11 @@ This data enables stakeholders to optimize supply chains, identify opportunities
     </figure>
 </div>
 
+Serving as the lead for the forestry and agriculture sector, our research findings were subsequently published in this collaborative report focusing on revised economic strategies and science-driven policy recommendations for regional planners aiming at sustainable development in Hungary.
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/koszeg%20book.jpg" style="width: 35%;">
-        <figcaption style="font-size: 15px; max-width: 37%; text-align:left; margin-top: -15px;">Our collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development in Hungary</figcaption>
+        <!-- <figcaption style="font-size: 15px; max-width: 37%; text-align:left; margin-top: -15px;">Our collaborative publication on revised economic strategies and science-based policy recommendations for regional planners targeting sustainable development in Hungary</figcaption>-->
     </figure>
 </div>
