@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-## Precision Agriculture
-
 Precision agriculture, utilizing satellites and drones, optimizes farming efficiency and sustainability by enabling accurate crop health monitoring. This includes early detection of stress, disease, or nutrient deficiencies. Additionally, precise monitoring supports accurate estimates of carbon sequestration, aiding the development of sustainable agriculture practices and climate mitigation strategies. 
 
 The following images highlight agricultural research I conducted at:<br>
