@@ -16,16 +16,7 @@ Wetland ecosystems play a significant role in land-atmosphere carbon exchange an
     </figure>
 </div>
 
-
-
-Skills
-======
-__Hard Skills__<br>
-Geospatial Analysis | Data Processing | Machine Learning | Scientific Computing | Environmental
-Modeling | Ecological Investigations | Drone Operation<br>
-
-__Transferable Skills__<br>
-Seasonal flooding in this system is a major transporter of carbon from the Amazon river to the Atlantic Ocean<br>
+## NASA's NISAR Mission
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
