@@ -9,7 +9,12 @@ author_profile: true
 
 Wetland ecosystems play a significant role in land-atmosphere carbon exchange and are vital components of the global climate system, crucial for sustaining biological diversity. Accurate assessment of wetland inundation dynamics is essential for comprehending their function as carbon sinks and for devising effective mitigation strategies to address climate change.
 
-## Mangroves
+I have collaborated with NASA to map and model wetland systems across the Western Hemisphere, including:<br>
+• <a href="https://www.facebook.com/reservanacionalpacayasamiria/" target="_blank">Pacaya Samiria Reserve</a>, Peruvian Amazon <br>
+• Timbiqui, Pacific Coast, Colombia<br>
+• Wheeler Marsh, Long Island Sound, NY<br>
+
+
 
 
 <div style="text-align:center;">
