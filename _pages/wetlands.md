@@ -16,7 +16,7 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 
 
 <div style="text-align:center;">
-    <figure style="display:inline-block; margin-top: -10px;">
+    <figure style="display:inline-block; margin-top: -5px;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 90%;">
         <figcaption style="font-size: 15px; max-width: 87%; text-align:justify; margin: 0 auto; margin-top: -15px; margin-bottom: -30px;">Mangrove ecosystem along the Pacific Coast of Colombia. These are among the tallest and highest biomass mangroves in the world. These ecosystems are critical for carbon sequestration but are highly threatened due to their proximity to coastal development areas. My work in Colombia has focused on the mapping and protection of these invaluable ecosystems.</figcaption>
     </figure>
@@ -27,7 +27,7 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 <a href="https://nisar.jpl.nasa.gov/science/ecosystems/" target="_blank">NISAR</a> is a joint Earth-observing mission between NASA and the Indian Space Research Organization (ISRO).  A primary objective of the NISAR mission is the accurate and consistent monitoring of wetlands inundation to support a variety of science needs. Our collaboration team has established a monitoring framework in the Pacaya Samiria National Reserve, Peru, to support NASA mission objectives in tropical wetlands.
 
 <div style="text-align:center;">
-    <figure style="display:inline-block; margin-top: -10px;">
+    <figure style="display:inline-block; margin-top: -5px;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya_dems_img.png" style="width: 100%;">
         <figcaption style="font-size: 15px; max-width: 98%; text-align:justify; margin: 0 auto; margin-top: -15px;">Drone image (left), vegetation structure model (center), and terrain elevation model (right) that I collected and developed from the NASA wetland calibration/validation site in the Peruvian Amazon. My collaboration network has dedicated years to conducting fieldwork and remote sensing investigations in the Amazon, advancing NASA wetland science research.</figcaption>
     </figure>
