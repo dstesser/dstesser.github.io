@@ -28,7 +28,7 @@ Biological Inventories
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/puma.gif" style="width: 50%;">
-        <figcaption style="font-size: 15px; max-width: 50%; text-align:left; margin-top: -15px;">Puma documented by track cameras we installed in the Itapoa jungle reserve in Ecuador.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 50%; text-align:left; margin-top: -15px;">Endangered Puma documented by track cameras we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
     </figure>
 </div>
 
