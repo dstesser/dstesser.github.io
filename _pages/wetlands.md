@@ -12,10 +12,10 @@ Wetland ecosystems play a significant role in land-atmosphere carbon exchange an
 ## Mangroves
 
 
-<div style="text-align:left;">
+<div style="text-align:center;">
     <figure style="display:inline-block; margin-top: s10px;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 80%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Mangrove ecosystem along the Pacific Coast of Colombia. These are among the tallest and highest biomass mangroves in the world. These ecosystems are critical for carbon sequestration but are highly threatened due to their proximity to coastal development areas. My work in Colombia has focused on the mapping and protection of these invaluable ecosystems.</figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 90%;">
+        <figcaption style="font-size: 15px; max-width: 92%; text-align:justify; margin: 0 auto; margin-top: -15px;">Mangrove ecosystem along the Pacific Coast of Colombia. These are among the tallest and highest biomass mangroves in the world. These ecosystems are critical for carbon sequestration but are highly threatened due to their proximity to coastal development areas. My work in Colombia has focused on the mapping and protection of these invaluable ecosystems.</figcaption>
     </figure>
 </div>
 
