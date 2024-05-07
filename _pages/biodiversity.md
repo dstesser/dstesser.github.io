@@ -23,7 +23,7 @@ Fieldwork campaigns are essential for conservation efforts, as they validate hab
     </figure>
 </div>
 
-## Tropical Forest Regeneration
+## Habitat Restoration
 In this project in Hungary we...<br>
 M.S. in Biology, New York University, 2011<br>
 B.S. in History and International Relations, Brandeis University, 2009
