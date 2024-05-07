@@ -7,16 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-## Tropical Forest Regeneration
-In this project in Hungary we...<br>
-M.S. in Biology, New York University, 2011<br>
-B.S. in History and International Relations, Brandeis University, 2009
-
-
-Biological Inventories
-======
-
+Biological inventories are key components of field work campaigns to validate habitat capacity..
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
@@ -31,4 +22,10 @@ Biological Inventories
         <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -15px;">Endangered Puma documented by track cameras that we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
     </figure>
 </div>
+
+## Tropical Forest Regeneration
+In this project in Hungary we...<br>
+M.S. in Biology, New York University, 2011<br>
+B.S. in History and International Relations, Brandeis University, 2009
+
 
