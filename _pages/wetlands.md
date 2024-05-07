@@ -18,7 +18,7 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 <div style="text-align:center;">
     <figure style="display:inline-block; margin-top: -10px;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/mangroves.png" style="width: 90%;">
-        <figcaption style="font-size: 15px; max-width: 87%; text-align:justify; margin: 0 auto; margin-top: -15px; margin-bottom: -30px; font-family: Roboto, sans-serif;">Mangrove ecosystem along the Pacific Coast of Colombia. These are among the tallest and highest biomass mangroves in the world. These ecosystems are critical for carbon sequestration but are highly threatened due to their proximity to coastal development areas. My work in Colombia has focused on the mapping and protection of these invaluable ecosystems.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 87%; text-align:justify; margin: 0 auto; margin-top: -15px; margin-bottom: -30px;">Mangrove ecosystem along the Pacific Coast of Colombia. These are among the tallest and highest biomass mangroves in the world. These ecosystems are critical for carbon sequestration but are highly threatened due to their proximity to coastal development areas. My work in Colombia has focused on the mapping and protection of these invaluable ecosystems.</figcaption>
     </figure>
 </div>
 
@@ -36,7 +36,7 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 
 <div style="display: flex; justify-content: center;">
     <div style="width: 100%;">
-        <figcaption style="font-size: 18px; max-width: 90%; text-align: justify; color: #333333;"><br>Peru’s Ucayali-Marañon is home to the Pacaya Samiria National Reserve. This reserve encompasses the largest tropical flooded forest in the Peruvian Amazon and is the most expansive protected wetlands area in the Amazon basin.<br><br> There is a pronounced seasonal flood pulse raising river water levels greater than 10 m (flood marks indicated in the photos on the right). As a result, a vast amount of the region experiences enhanced inundation for months every year. <br><br> Topographic and climatic conditions, along with water availability, support the Pacaya Samiria’s high ecological richness, biodiversity, and prevalent wetlands ecosystems. The goal of this project is to assess inundation extent and dynamics in a tropical wetlands complex.</figcaption>
+        <figcaption style="font-size: 18px; max-width: 90%; text-align: justify; color: #333333; font-family: Roboto, sans-serif;"><br>Peru’s Ucayali-Marañon is home to the Pacaya Samiria National Reserve. This reserve encompasses the largest tropical flooded forest in the Peruvian Amazon and is the most expansive protected wetlands area in the Amazon basin.<br><br> There is a pronounced seasonal flood pulse raising river water levels greater than 10 m (flood marks indicated in the photos on the right). As a result, a vast amount of the region experiences enhanced inundation for months every year. <br><br> Topographic and climatic conditions, along with water availability, support the Pacaya Samiria’s high ecological richness, biodiversity, and prevalent wetlands ecosystems. The goal of this project is to assess inundation extent and dynamics in a tropical wetlands complex.</figcaption>
     </div>
     <figure style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya%20overview%20watermarks.png" style="width: 100%;">
