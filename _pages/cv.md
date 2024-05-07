@@ -89,6 +89,7 @@ Selected Presentations
 * Assessment of tropical deforestation in the Ecuadorian Chocó associated with Home Depot supplier logging activities. Home Depot Headquarters, Atlanta, GA, September 2023<br>
 * Usando sensores remotos satelitales para mapeo de ecosistemas y biodiversidad del Chocó. El
 Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultura, Puerto Quito, Ecuador, November 2022<br>
+* Perspectives of the Chocó Rainforest from Space to the Understory. New York Society for Ethical Culture. New York, NY, August 2022.
 * Assessment of landcover type and thermal regimes utilizing SAR and ECOSTRESS in the Chocó Biodiversity Hotspot, Ecuador. NASA ECOSTRESS Science and Applications Team Meeting, Pasadena, CA, April 2022<br>
 * Fusing NASA ECOSTRESS and NOAA GOES-16 datasets for study of thermal regimes and water stress in terrestrial systems. AGU Fall Meeting, San Franscico, December 2019<br>
 * Resiliency and regeneration of the forestry and agriculture sector towards a circular economy in the Pannonian region of Hungary. The Institute for Advanced Studies, Koszeg, Hungary, October 2018.<br>
