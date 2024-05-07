@@ -17,7 +17,7 @@ Biological inventories are key components of field work campaigns to validate ha
 </div>
 
 <div style="text-align:left;">
-    <figure style="display:inline-block; text-align: left; margin-top: -30px">
+    <figure style="display:inline-block; text-align: left; margin-top: -20px">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/puma.gif" style="width: 50%;">
         <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -15px;">Endangered Puma documented by track cameras that we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
     </figure>
