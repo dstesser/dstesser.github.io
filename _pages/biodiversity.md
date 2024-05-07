@@ -30,7 +30,7 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
-        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pannonian_circular_economy.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the approximate amount of time each plot has been naturally regenerating since achieving protected conservation status. Collaboration source: https://www.reassembly.de/</figcaption>
+        <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/reassembly.jpeg" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the approximate amount of time each plot has been naturally regenerating since achieving protected conservation status. Collaboration source: https://www.reassembly.de/</figcaption>
     </figure>
 </div>
