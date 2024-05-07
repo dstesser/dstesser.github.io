@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Biological inventories are key components of field work campaigns to validate habitat capacity..
+Fieldwork campaigns are essential for conservation efforts, as they validate habitat capacity and assess ecosystem health. Biological inventories are integral to these campaigns, and I have actively participated in numerous efforts aimed at identifying endemic species. The following gallery showcases some of the species documented by my team over several years in the Chocó Hotspot of Biodiversity.
 
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;">
