@@ -25,3 +25,10 @@ Biological Inventories
     </figure>
 </div>
 
+
+<div style="text-align:center;">
+    <figure style="display:inline-block;">
+        <img src="images/puma.mp4" style="width: 100%;">
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during biodiversity conservation campaigns in Ecuador between 2015-2022.</figcaption>
+    </figure>
+</div>
