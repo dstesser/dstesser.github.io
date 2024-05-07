@@ -26,8 +26,6 @@ The following gallery showcases some of the species documented by my team over s
 </div>
 
 ## Habitat Restoration
-In this project in Hungary we...<br>
-M.S. in Biology, New York University, 2011<br>
-B.S. in History and International Relations, Brandeis University, 2009
+Habitat restoration is essential for conservation efforts as it counteracts ecosystem degradation, preserves biodiversity, and creates carbon sinks to mitigate climate change. Through my involvement in identifying priority conservation areas and implementing habitat regeneration projects, particularly in tropical forests, we aim to restore critical regions of biodiversity and bolster ecosystem resilience, thereby making substantial contributions to global conservation objectives.
 
 
