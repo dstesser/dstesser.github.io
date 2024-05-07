@@ -24,6 +24,8 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 
 ## NASA-ISRO SAR Mission
 
+<a href="https://nisar.jpl.nasa.gov/science/ecosystems/" target="_blank">NISAR</a> is a joint Earth-observing mission between NASA and the Indian Space Research Organization (ISRO).  A primary objective of the NISAR mission is the accurate and consistent monitoring of wetlands inundation to support a variety of science needs. Our collaboration team has established a monitoring framework in the Pacaya Samiria National Reserve, Peru, to support NASA mission objectives in tropical wetlands.
+
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pacaya_dems_img.png" style="width: 100%;">
