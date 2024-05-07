@@ -9,12 +9,10 @@ author_profile: true
 
 Wetland ecosystems play a significant role in land-atmosphere carbon exchange and are vital components of the global climate system, crucial for sustaining biological diversity. Accurate assessment of wetland inundation dynamics is essential for comprehending their function as carbon sinks and for devising effective mitigation strategies to address climate change.
 
-I have collaborated with <a href="https://uavsar.jpl.nasa.gov/asar/" target="_blank">NASA</a> to map and model wetland systems across the Western Hemisphere, including:<br>
+I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">NASA</a> to map and model wetland systems across the Western Hemisphere, including:<br>
 • <a href="https://www.facebook.com/reservanacionalpacayasamiria/" target="_blank">Pacaya Samiria Reserve</a>, Peruvian Amazon <br>
-• Timbiqui, Pacific Coast, Colombia<br>
-• Wheeler Marsh, Long Island Sound, NY<br>
-
-
+• <a href="https://runap.parquesnacionales.gov.co/area-protegida/1113" target="_blank">Timbiqui</a>, Pacific Coast of Colombia<br>
+• <a href="https://uavsar.jpl.nasa.gov/asar/" target="_blank">Wheeler Marsh</a>, Long Island Sound<br>
 
 
 <div style="text-align:center;">
