@@ -14,7 +14,7 @@ The following gallery showcases some of the species documented by my team over s
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/conservation_gallery.png" style="width: 70%; margin-top: -10px;">
-        <figcaption style="font-size: 15px; max-width: 72%; text-align:center; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 72%; text-align:left; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
     </figure>
 </div>
 
@@ -24,7 +24,7 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/manuscript_fnfclassification.png" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 100%; text-align:left; margin: 0 auto; margin-top: -15px;">(Right) I developed a forest regeneration index, derived from satellite radar imagery, which is sensitive to various tropical forest land cover types and monitors regrowth. I utilize this method to evaluate the regeneration of tropical forest areas within conservation zones. (Left) Utilizing time-series imagery enables the reconstruction of land cover changes spanning over 20 years, aiding in the assessment of conservation priority regions and their potential for forest regeneration, crucial for biodiversity protection and climate change initiatives.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:left; margin: 0 auto; margin-top: -15px;">(Right) I developed a forest regeneration index, derived from satellite radar imagery, which is sensitive to various tropical forest land cover types and monitors regrowth. I utilize this method to evaluate the regeneration of tropical forest areas within conservation zones. (Left) Utilizing time-series imagery enables the reconstruction of land cover changes spanning over 20 years, aiding in the assessment of conservation priority regions and their potential for forest regeneration, crucial for biodiversity protection and climate change initiatives.</figcaption>
     </figure>
 </div>
 
