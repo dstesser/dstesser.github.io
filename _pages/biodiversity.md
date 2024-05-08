@@ -19,7 +19,7 @@ The following gallery showcases some of the species documented by my team over s
 </div>
 
 ## Habitat Restoration
-Habitat restoration is essential for conservation efforts as it counteracts ecosystem degradation, preserves biodiversity, and creates carbon sinks to mitigate climate change. Through my involvement in identifying priority conservation areas and implementing habitat regeneration projects, particularly in tropical forests, we aim to restore critical regions of biodiversity and bolster ecosystem resilience, thereby making substantial contributions to global conservation objectives.
+Habitat restoration is essential for conservation efforts as it counteracts ecosystem degradation, preserves biodiversity, and creates carbon sinks to mitigate climate change. Through my collaborations in identifying priority conservation areas and implementing habitat regeneration projects, particularly in tropical forests, we aim to restore critical regions of biodiversity and bolster ecosystem resilience, thereby making substantial contributions to global conservation objectives.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
@@ -31,7 +31,7 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/reassembly.jpeg" style="width: 90%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:left; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the approximate amount of time each plot has been naturally regenerating since achieving protected conservation status. Source: <a href="https://www.reassembly.de/" target="_blank">https://www.reassembly.de/</a></figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:left; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the amount of time each site has been naturally regenerating since achieving protected conservation status. Source: <a href="https://www.reassembly.de/" target="_blank">https://www.reassembly.de/</a></figcaption>
     </figure>
 </div>
 
