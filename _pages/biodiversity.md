@@ -39,6 +39,6 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 <div style="text-align:left;">
     <figure style="display:inline-block; text-align: left;  ">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/puma.gif" style="width: 50%;">
-        <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -10px;">We install track cameras in the Itapoa jungle reserve in Ecuador to document the presence of endangered large cats, such as jaguars and ocelots. Here we captured a puma on video.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -10px;">We install track cameras in the Itapoa jungle reserve in Ecuador to document the presence of endangered large cats, such as jaguars and ocelots. This video shows a local puma, a key indicator of ecosystem health!</figcaption>
     </figure>
 </div>
