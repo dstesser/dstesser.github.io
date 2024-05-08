@@ -12,7 +12,7 @@ Fieldwork campaigns are essential for conservation efforts, as they validate hab
 The following gallery showcases some of the species documented by my team over several years in the Chocó Hotspot of Biodiversity.
 
 <div style="text-align:center;">
-    <figure style="display:inline-block; margin-top: -15px;">
+    <figure style="display:inline-block; margin-top: -10px;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/conservation_gallery.png" style="width: 70%;">
          <figcaption style="font-size: 15px; max-width: 72%; text-align:justify; margin: 0 auto; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
     </figure>
