@@ -9,7 +9,7 @@ author_profile: true
 
 Fieldwork campaigns are essential for conservation efforts, as they validate habitat capacity and assess ecosystem health. Biological inventories are integral to these campaigns, and I have actively participated in numerous efforts aimed at identifying endemic species in tropical rainforests. 
 
-The following gallery showcases species documented by my team over several years in the Chocó Hotspot of Biodiversity in South America, an immensely valuable region more biodiverse than the Amazon.
+The following gallery showcases some of the species documented by my team over several years in the Chocó rainforest South America, an immensely valuable region known for its exceptional biodiversity, surpassing even that of the Amazon.
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin-top: -10px;">
