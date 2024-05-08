@@ -36,7 +36,7 @@ Implementations of my work have aided indigenous communities in preserving terri
 
 Comprehensive data on vegetation structure serves as a crucial indicator of ecosystem processes, such as carbon storage. However, the complexity of local-scale vegetation structure in tropical and temperate forest ecosystems leads to uncertainties in biomass and carbon quantification.
 
-I employ precision survey techniques using Lidar and drone photogrammetry to generate highly detailed 3D maps of natural environments. These methodologies enhance the accuracy of assessing carbon storage and biomass potentials, thereby informing the development of nature-based climate solutions aimed at decarbonization strategies.
+I employ precision survey techniques using Lidar and drone photogrammetry to generate highly detailed 3D maps of natural environments. These methodologies enhance the accuracy of assessing carbon storage and biomass potentials, informing the design of nature-based climate solutions aimed at decarbonization strategies.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
