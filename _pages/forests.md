@@ -19,7 +19,7 @@ Logging activities and agricultural expansion are significant drivers of defores
 
 Implementations of my work have aided indigenous communities in preserving territorial integrity, advancing climate change initiatives by mitigating the impact of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects with the aim of establishing biodiversity corridors, which can generate high-quality carbon credits.<br>
 <div style="text-align: center;">
-    <div style="display: flex; justify-content: center; margin-top: -10px;">
+    <div style="display: flex; justify-content: center;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -20px;">Monitoring illegal logging activities and road development within indigenous territories in the  Ecuador rainforest.</figcaption>
