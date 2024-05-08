@@ -27,7 +27,7 @@ Implementations of my work have aided indigenous communities in preserving terri
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%; margin-top: -5px;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd2.png" style="width: 100%;" alt="oil palm">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Measuring the extent of oil palm expansion in the Chocó Rainforest, which drives regional climate change.</figcaption>
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Measuring oil palm expansion in the Chocó Rainforest, which contributes to regional climate change.</figcaption>
         </figure>
     </div>
 </div>
