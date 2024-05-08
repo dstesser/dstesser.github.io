@@ -25,7 +25,7 @@ Implementations of my work have aided indigenous communities in preserving terri
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Monitoring illegal logging activities and road development within indigenous territories in the  Ecuador rainforest.</figcaption>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
-        <figure style="width: 40%; margin-top: -1px;">
+        <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd2.png" style="width: 100%;" alt="oil palm">
             <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Measuring oil palm expansion in the Chocó Rainforest, which contributes to regional climate change.</figcaption>
         </figure>
