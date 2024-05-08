@@ -11,10 +11,10 @@ Fieldwork campaigns are essential for conservation efforts, as they validate hab
 
 The following gallery showcases some of the species documented by my team over several years in the Chocó Hotspot of Biodiversity.
 
-<div style="text-align:left;">
+<div style="text-align:center;">
     <figure style="display:inline-block; text-align: left; margin-top: -10px">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/conservation_gallery.png" style="width: 70%;">
-        <figcaption style="font-size: 15px; max-width: 70%; text-align:left; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 72%; text-align:left; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
     </figure>
 </div>
 
@@ -37,8 +37,8 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 
 
 <div style="text-align:left;">
-    <figure style="display:inline-block; text-align: left; margin-top: -1px">
+    <figure style="display:inline-block; text-align: left;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/puma.gif" style="width: 50%;">
-        <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -10px; margin-bottom: -10px;">Endangered Puma documented by track cameras that we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -10px;">Endangered Puma documented by track cameras that we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
     </figure>
 </div>
