@@ -15,7 +15,7 @@ author_profile: true
 
 ## Tropical Deforestation Monitoring
 
-Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests, contributing to atmospheric carbon emissions. I collaborate with organizations to develop geospatial data products for monitoring near-real time forest degradation and quantification of forest carbon sequestration. 
+Logging activities and agricultural expansion are significant drivers of deforestation in tropical rainforests, contributing to atmospheric carbon emissions. I collaborate with organizations to develop geospatial data products for monitoring near-real time forest degradation and quantification of forest carbon sequestration, aiming to combat climate change. 
 
 Implementations of my work have aided indigenous communities in preserving territorial integrity, advancing climate change initiatives by mitigating the impact of <a href="https://homedepot-deforestation.org/" target="_blank">industrial logging activities</a>. Additionally, this research supports <a href="https://www.jocotococonservation.org/" target="_blank">conservation groups</a> in reforestation projects aimed at establishing biodiversity corridors.<br>
 <div style="text-align: center;">
