@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Wetland ecosystems play a significant role in land-atmosphere carbon exchange and are vital components of the global climate system, crucial for sustaining biological diversity. Accurate assessment of wetland inundation dynamics is essential for comprehending their function as carbon sinks and for devising effective mitigation strategies to address climate change.
+Wetland ecosystems play a significant role in land-atmosphere carbon exchange and are vital components of the global climate system. Accurate assessment of wetland inundation dynamics is essential for comprehending their function as carbon sinks and for devising effective mitigation strategies to address climate change.
 
 I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">NASA</a> to map and model wetland systems across the Western Hemisphere, including:<br>
 • <a href="https://www.facebook.com/reservanacionalpacayasamiria/" target="_blank">Pacaya Samiria Reserve</a>, Peruvian Amazon <br>
@@ -24,7 +24,7 @@ I have collaborated with <a href="https://nisar.jpl.nasa.gov/" target="_blank">N
 
 ## NASA-ISRO SAR Mission
 
-<a href="https://nisar.jpl.nasa.gov/science/ecosystems/" target="_blank">NISAR</a> is a joint Earth-observing mission between NASA and the Indian Space Research Organization (ISRO).  A primary objective of the NISAR mission is the accurate and consistent monitoring of wetlands inundation to support a variety of science needs. Our collaboration team has established a monitoring framework in the Pacaya Samiria National Reserve, Peru, to support NASA mission objectives in tropical wetlands.
+<a href="https://nisar.jpl.nasa.gov/science/ecosystems/" target="_blank">NISAR</a> is a joint Earth-observing mission between NASA and the Indian Space Research Organization (ISRO).  A primary objective of the NISAR mission is the <a href="https://www.nasa.gov/missions/nisar/nasa-isro-radar-mission-to-provide-dynamic-view-of-forests-wetlands/#hds-sidebar-nav-1" target="_blank">accurate and consistent monitoring</a> of wetlands inundation to support a variety of science needs. Our collaboration team has established a monitoring framework in the Pacaya Samiria National Reserve, Peru, to support NASA mission objectives in tropical wetlands.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
