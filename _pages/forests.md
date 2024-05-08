@@ -22,12 +22,12 @@ Implementations of my work have aided indigenous communities in preserving terri
     <div style="display: flex; justify-content: center; margin-top: -10px;">
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/sabalito_planet_fade3.gif" style="width: 100%;" alt="deforestation">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Logging activities within indigenous territory in Ecuador.</figcaption>
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Monitoring illegal logging activities and road development within indigenous territories in the  Ecuador rainforest.</figcaption>
         </figure>
         <div style="width: 10%;"></div> <!-- Add a spacer -->
         <figure style="width: 40%;">
             <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/fpfd2.png" style="width: 100%;" alt="oil palm">
-            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Oil palm expansion in the Chocó Rainforest.</figcaption>
+            <figcaption style="font-size: 15px; text-align:justify; margin: 0 auto; margin-top: -15px;">Measuring the extent of oil palm expansion in the Chocó Rainforest, which contributes to carbon emissions and regional climate change.</figcaption>
         </figure>
     </div>
 </div>
