@@ -14,7 +14,7 @@ The following gallery showcases some of the species documented by my team over s
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/conservation_gallery.png" style="width: 70%;">
-         <figcaption style="font-size: 14.5px; max-width: 70%; text-align:justify; margin: 0 auto; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
+         <figcaption style="font-size: 15px; max-width: 70%; text-align:justify; margin: 0 auto; margin-top: -15px;">This gallery includes photos taken by Derek Tesser, Raul Nieto (Itapoa Project), and Jaime Culebras (Photo Wildlife Tours) during our biodiversity conservation campaigns in Ecuador between 2015 - 2022.</figcaption>
     </figure>
 </div>
 
