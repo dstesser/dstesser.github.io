@@ -20,17 +20,23 @@ B.S. in History and International Relations, Brandeis University, 2009
 Work Experience
 =====
 __2020 - Current: Research Scientist__<br>
-City College of New York<br>
+The City College of New York<br>
 • Developing vegetation structural models from combined satellite and drone imagery<br>
 • Integrating data from radar, lidar, and optical/IR imagery to quantify forest carbon capacity<br>
 • Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
 • Producing reports, proposals, and conference presentations to advance project goals
 
-__2019 - Current: Independent Consultant__<br>
+__2019 - Current: Independent Environmental Consultant__<br>
 TerraSigma LLC<br>
 • Advising on carbon and biomass potentials for nature-based solutions within the forestry and agriculture sectors<br>
 • Producing tailored reports of tropical deforestation and regrowth activities, customized for NGOs and non-profits<br>
 • Guide assessments of carbon potential for landowners and project developers for participation in carbon markets
+
+__2019 - 2020: Research Intern__<br>
+NASA Jet Propulsion Laboratory<br>
+• Assessed experimental thermal imagery acquired from the International Space Station and derived measures for tropical forest mapping applications<br>
+• Fused complementary Earth observation datasets for study of thermal regimes and water stress in terrestrial systems in collaboration with the Carbon Cycle and Ecosystems group<br>
+• Conducted drone operations and processed imagery to enhance precision agriculture through integration with satellite data acquisitions
 
 __2012 - 2024: Faculty in Science and Mathematics__<br>
 The City University of New York<br>
