@@ -31,13 +31,13 @@ Habitat restoration is essential for conservation efforts as it counteracts ecos
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/reassembly.jpeg" style="width: 90%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the approximate amount of time each plot has been naturally regenerating since achieving protected conservation status. Source: <a href="https://www.reassembly.de/" target="_blank">https://www.reassembly.de/</a></figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:left; margin: 0 auto; margin-top: -15px;">Natural recovery of converted pasture land (top) and cacao plantation (bottom) back to tropical forest (right) as part of a conservation collaboration project aimed at establishing biodiversity corridors. The number of years indicates the approximate amount of time each plot has been naturally regenerating since achieving protected conservation status. Source: <a href="https://www.reassembly.de/" target="_blank">https://www.reassembly.de/</a></figcaption>
     </figure>
 </div>
 
 
 <div style="text-align:left;">
-    <figure style="display:inline-block; text-align: left;">
+    <figure style="display:inline-block; text-align: left;  ">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/puma.gif" style="width: 50%;">
         <figcaption style="font-size: 15px; max-width: 52%; text-align:left; margin-top: -10px;">Endangered Puma documented by track cameras that we installed in the Itapoa jungle reserve in Ecuador to inventory biodiversity.</figcaption>
     </figure>
