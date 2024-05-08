@@ -49,7 +49,7 @@ I employ precision survey techniques using Lidar and drone photogrammetry to gen
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/foresty%20data%20collections.png" style="width: 100%; margin-top: 30px;">
-        <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;"><b>(Left)</b> Capturing the inaugural drone flight in the Itapoa Reserve, Ecuador. This site was surveyed following an arduous ten-hour hike through a pristine tropical biodiversity hotspot. <b>(Middle)</b> Conducting ecological data collection at our monitoring station within a regenerating forest reserve. <b>(Right)</b> Installing environmental sensors within an oil palm plantation to enhance assessments of tropical forest land conversion and its impacts.</figcaption>
+        <figcaption style="font-size: 15px; max-width: 100%; text-align:justify; margin: 0 auto; margin-top: -15px;">(Left) Capturing the inaugural drone flight in the Itapoa Reserve, Ecuador. This site was surveyed following an arduous ten-hour hike through a pristine tropical biodiversity hotspot. (Middle) Conducting ecological data collection at our monitoring station within a regenerating forest reserve. (Right) Installing environmental sensors within an oil palm plantation to enhance assessments of tropical forest land conversion and its impacts.</figcaption>
     </figure>
 </div>
 
