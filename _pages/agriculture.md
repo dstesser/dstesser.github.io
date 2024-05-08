@@ -44,7 +44,7 @@ This data enables stakeholders to optimize supply chains, identify opportunities
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="https://raw.githubusercontent.com/dstesser/dstesser.github.io/master/images/pannonian_circular_economy.jpg" style="width: 100%;">
-        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Agricultural classification with the European Sentinel-1 satellite to develop a circular economy in the Pannonian region of Hungary</figcaption>
+        <figcaption style="font-size: 15px; max-width: 90%; text-align:justify; margin: 0 auto; margin-top: -15px;">Agriculture inventory classification with the European Sentinel-1 satellite to develop a circular economy in the Pannonian region of Hungary</figcaption>
     </figure>
 </div>
 The workflow depicted above showcases my work focused on the resilience and regeneration of the forestry and agriculture sectors towards a circular economy in Hungary's Pannonian region. This joint project was conducted in collaboration with the <a href="https://iask.hu/en/" target="_blank">Institute of Advanced Studies Kőszeg</a> (iASK) and the City College of New York. 
