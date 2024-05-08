@@ -10,15 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-====
+## Education
 Ph.D in Earth and Environmental Sciences, CUNY Graduate Center, 2023<br>
 M.S. in Biology, New York University, 2011<br>
 B.S. in History and International Relations, Brandeis University, 2009
 
 
-Work Experience
-====
+## Work Experience
 __2020 - Current: Research Scientist__<br>
 The City College of New York<br>
 • Developing vegetation structural models from combined satellite and drone imagery<br>
@@ -53,8 +51,7 @@ New York University<br>
 with environmental safety standards
 
 
-Skills
-====
+## Skills
 __Hard Skills__<br>
 Geospatial Analysis | Data Processing | Machine Learning | Scientific Computing | Environmental
 Modeling | Ecological Investigations | Drone Operation<br>
@@ -66,8 +63,7 @@ __Soft Skills__<br>
 Dynamic Presenter | Effective Communicator | Collaborative Team Player | Rapid Learner<br>
 
 
-Languages
-====
+## Languages
 Advanced Spanish
 
 
