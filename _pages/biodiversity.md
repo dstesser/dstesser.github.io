@@ -19,7 +19,7 @@ The following gallery showcases some of the species documented by my team over s
 </div>
 
 ## Habitat Restoration
-Habitat restoration is essential for conservation efforts as it counteracts ecosystem degradation, preserves biodiversity, and creates carbon sinks to mitigate climate change. Through my collaborations in identifying priority conservation areas and implementing habitat regeneration projects, particularly in tropical forests, we aim to restore critical regions of biodiversity and bolster ecosystem resilience, thereby making substantial contributions to global conservation objectives.
+Habitat restoration is essential for conservation efforts as it counteracts ecosystem degradation, preserves biodiversity, and creates carbon sinks to mitigate climate change. Through my collaborations identifying priority conservation areas and implementing habitat regeneration projects, particularly in tropical forests, we aim to restore critical regions of biodiversity and bolster ecosystem resilience, thereby making substantial contributions to global conservation objectives.
 
 <div style="text-align:center;">
     <figure style="display:inline-block;">
