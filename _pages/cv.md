@@ -67,15 +67,13 @@ Dynamic Presenter | Effective Communicator | Collaborative Team Player | Rapid L
 Advanced Spanish
 
 
-Certifications
-====
+## Certifications
 * Drone Operator, Airman Certificate, Federal Aviation Administration, 2019<br>
 * Soil and Water Assessment Tool (SWAT), Advanced Modeling, Texas A&M, 2018<br>
 * Counter Threat Awareness Training, Office of Foreign Affairs, U.S. Department of State, 2023
 
 
-Collaborations and Affilations
-====
+## Collaborations and Affilations 
 • Carbon Cycle and Ecosystems Group, NASA Jet Propulsion Lab, Pasadena, CA<br>
 • NISAR Wetlands Science Team, NASA Jet Propulsion Lab, Pasadena, CA<br>
 • Harvard Forest Long Term Ecological Research Site, Petersham, MA<br>
@@ -86,8 +84,7 @@ Collaborations and Affilations
 • American Geophysical Union<br>
 
   
-Selected Presentations
-====
+## Selected Presentations
 * Assessment of tropical deforestation in the Ecuadorian Chocó associated with Home Depot supplier logging activities. Home Depot Headquarters, Atlanta, GA, September 2023<br>
 * Usando sensores remotos satelitales para mapeo de ecosistemas y biodiversidad del Chocó. El
 Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultura, Puerto Quito, Ecuador, November 2022<br>
@@ -100,8 +97,7 @@ Municipal del Cantón Puerto Quito Festivales de Ciencia, Conservación, y Cultu
   
   
   
-Selected Publications
-====
+## Selected Publications
 1. Tesser, D., E., Tremlett, C.J., Newell, F.L., Villa-Galaviz, E., Blüthgen, N., Shafer, M., Podest, E., McDonald, K.C., 2024. Monitoring tropical forest disturbance and recovery with multi-decade spaceborne synthetic aperture radar in the Chocó biodiversity hotspot, Ecuador. (Manuscript in preparation). 
 2. Tesser, D., Nieto, R., McDonald, K.C., 2024. Structural and thermal assessment of tropical forest transition to oil palm agriculture in the Chocó ecoregion using sUAV. (Manuscript in preparation). 
 3. Tesser, D., Podest, E., McDonald, K.C., 2024. Characterization of ecosystem functional types utilizing integrated SAR, LiDAR, and ECOSTRESS observations to identify priority regions for biodiversity conservation. (Manuscript in preparation). 
