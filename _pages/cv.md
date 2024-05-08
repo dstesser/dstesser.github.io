@@ -26,7 +26,7 @@ The City College of New York<br>
 • Coordinating drone flight and data acquisition activities in support of NASA science objectives<br>
 • Producing reports, proposals, and conference presentations to advance project goals
 
-__2019 - Current: Independent Environmental Consultant__<br>
+__2019 - Current: Environmental Consultant__<br>
 TerraSigma LLC<br>
 • Advising on carbon and biomass potentials for nature-based solutions within the forestry and agriculture sectors<br>
 • Producing tailored reports of tropical deforestation and regrowth activities, customized for NGOs and non-profits<br>
