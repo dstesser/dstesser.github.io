@@ -16,7 +16,7 @@ My research focuses on developing environmental monitoring capabilities from Syn
 * Monitoring crop health and developing agricultural inventories to guide sustainable ESG strategies
 * Fusing ecosystem and landcover data from diverse sources to identify priority regions for biodiversity conservation
 
-If you would like more information on these projects or are interested in collaborating, please reach out to: dstesser@gmail.com
+If you would like more information on these projects or are interested in collaborating, please send me an email.
 <div style="text-align:center;">
     <figure style="display:inline-block;">
         <img src="images/siteoverview4.gif" style="width: 75%;">
